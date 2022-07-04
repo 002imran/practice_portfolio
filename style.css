@@ -13,7 +13,7 @@ h1{
 .orange-color{
     color: rgb(243, 168, 29);
 }
-section{
+.felxible-container{
     display: flex;
     margin-bottom: 150px;
     
